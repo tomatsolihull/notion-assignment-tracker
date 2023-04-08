@@ -2,6 +2,12 @@
 
 **Updated December 2022**, [originally published](https://github.com/itsmeimtom/thomasr.me/blob/dff5a743e2bf7e3a6d95d16e39504fb217376fdd/_things/solcol.md) at ThomasR.me
 
+<!-- 
+TODO: 
+	- Fix past/present tenses (is this a reflection or a description?) - do this once I've left?
+	- Provide some context of course/etc
+-->
+
 ---
 
 One of the things I pride myself on is my ability to stay organised. To keep track of all [my assignments](https://github.com/tomatsolihull/assignments), I make use of [Notion](https://notion.so). Below follows a short overview of my page, hopefully it will be of inspiration to you.
